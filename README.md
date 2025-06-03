@@ -10,7 +10,7 @@ Each chunk:
     is small enough for Plaso, Event Viewer, or any other parser to open without exhausting RAM.
 
 
-You might get a error on plaso about the evxt to large by spliting this by plaso will process those chunk like indepent evtx.
+You might get a error on plaso about the evxt too large by spliting this by plaso will process those chunk like indepent evtx.
 
 Usage:
 # Run from an elevated PowerShell prompt
