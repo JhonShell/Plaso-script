@@ -17,6 +17,4 @@ Usage:
 powershell -NoProfile -ExecutionPolicy Bypass -File .\split-security.ps1 `
   "C:\Evidence\Security.evtx"  "C:\Evidence\Chunks"
 
-<OutDir>\Security_part1.evtx   (first  ~⅓ of the log)
-<OutDir>\Security_part2.evtx   (middle ~⅓)
-<OutDir>\Security_part3.evtx   (last   ~⅓)
+
